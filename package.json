@@ -1,0 +1,19 @@
+{
+  "name": "slicklit1",
+  "version": "0.0.0",
+  "description": "A try to use Git hun with c9",
+  "main": "server.js",
+  "repository": "",
+  "author": "Philippe Stephan <pstephan@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+  },
+  "subdomain": "ipstephan-stickli1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
